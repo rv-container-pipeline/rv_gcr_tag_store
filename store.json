@@ -1,5 +1,6 @@
 {
   "images": {
-    "/rv-php-7.4-buster-minimal": "1.0.4"
+    "/rv-php-7.4-buster-minimal": "1.0.4",
+    "gcr.io/rv-base-images/rv-alpine-3": "1.2.0"
   }
 }
