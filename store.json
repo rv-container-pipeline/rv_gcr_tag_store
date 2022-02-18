@@ -11,6 +11,7 @@
     "gcr.io/rv-base-images/rv-dotnet-aspnet-5-slim": "1.0.6",
     "gcr.io/rv-base-images/rv-dotnet-aspnet-6-slim": "1.0.1",
     "gcr.io/rv-base-images/rv-dotnet-sdk-3.1-alpine": "1.0.6",
-    "gcr.io/rv-base-images/rv-dotnet-sdk-5-alpine": "1.0.6"
+    "gcr.io/rv-base-images/rv-dotnet-sdk-5-alpine": "1.0.6",
+    "gcr.io/rv-base-images/rv-dotnet-sdk-3.1-buster": "1.0.4"
   }
 }
