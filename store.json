@@ -26,6 +26,7 @@
     "gcr.io/rv-base-images/rv-php-8.0-fpm-alpine": "1.0.3",
     "gcr.io/rv-base-images/rv-php-8.1-buster-minimal": "1.0.0",
     "gcr.io/rv-base-images/rv-php-8.1-fpm-buster-minimal": "1.0.0",
-    "gcr.io/rv-base-images/rv-php-8.1-fpm-alpine": "1.0.0"
+    "gcr.io/rv-base-images/rv-php-8.1-fpm-alpine": "1.0.0",
+    "gcr.io/rv-base-images/rv-java-11-jdk-buster-newrelic": "1.0.1"
   }
 }
