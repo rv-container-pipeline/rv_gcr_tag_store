@@ -3,7 +3,7 @@
     "/rv-php-7.4-buster-minimal": "1.0.4",
     "gcr.io/rv-base-images/rv-alpine-3": "1.2.0",
     "gcr.io/rv-base-images/rv-java-17-jdk-buster-newrelic": "1.0.1",
-    "gcr.io/rv-base-images/rv-php-8.0-buster-minimal": "1.0.3",
+    "gcr.io/rv-base-images/rv-php-8.0-buster-minimal": "1.0.4",
     "gcr.io/rv-base-images/rv-python-3.9-buster": "1.0.4",
     "gcr.io/rv-base-images/rv-dotnet-aspnet-3.1-alpine": "1.0.6",
     "gcr.io/rv-base-images/rv-dotnet-aspnet-3.1-slim": "1.0.6",
