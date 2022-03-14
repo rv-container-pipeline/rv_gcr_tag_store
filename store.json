@@ -30,6 +30,7 @@
     "gcr.io/rv-base-images/rv-java-11-jdk-buster-newrelic": "1.0.1",
     "gcr.io/rv-base-images/rv-java-15-jdk-buster-newrelic": "1.0.1",
     "gcr.io/rv-base-images/rv-java-16-jdk-buster-newrelic": "1.0.1",
-    "gcr.io/rv-base-images/rv-java-18-jdk-buster-newrelic": "1.0.1"
+    "gcr.io/rv-base-images/rv-java-18-jdk-buster-newrelic": "1.0.1",
+    "gcr.io/rv-base-images/rv-python-3.8-slim": "1.0.5"
   }
 }
